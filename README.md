@@ -6,3 +6,7 @@ hey, im wojtua and im weird. coding since 2021, using computers since 2015.
 * html + css 
 * and trying to learn JavaScript. 
 
+# what i use on a daily basis:
+* iPhone X
+* my PC
+* OS: EndeavourOS (wm: bspwm) + Windows 10
