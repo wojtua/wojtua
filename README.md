@@ -9,4 +9,4 @@ hey, im wojtua and im weird. coding since 2021, using computers since 2015.
 # what i use on a daily basis:
 * iPhone X
 * my PC
-* OS: EndeavourOS (wm: bspwm) + Windows 10
+* OS: Xubuntu (jailbreak stuff) + Windows 10
