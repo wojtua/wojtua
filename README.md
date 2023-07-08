@@ -5,8 +5,9 @@ hey, im wojtua and im weird. coding since 2021, using computers since 2015.
 * python 
 * html + css 
 * and trying to learn JavaScript. 
+* a bit of C++
 
 # what i use on a daily basis:
-* iPhone X
+* iPhone 11
 * my PC
-* OS: Arch Linux
+* OS: Debian + Windows 10
